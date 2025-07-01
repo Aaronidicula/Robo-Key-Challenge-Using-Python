@@ -32,4 +32,4 @@ Successfully unlocked the door!
 MIT License
 
 ## About
-Created by Aaron Idicula as part of preparation for a software engineering coding assessment. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) to discuss Python, robotics, or AI!
+Created by Aaron Idicula. Connect with me on [LinkedIn]((https://www.linkedin.com/in/aaron-idicula-48902b181/)) to discuss Python, robotics, or AI!
