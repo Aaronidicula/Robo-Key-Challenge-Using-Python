@@ -15,7 +15,7 @@ Added simple virtual calculator
 2. Clone the repository: `git clone https://github.com/your-username/RoboKeyChallenge.git`
 3. Navigate to the project folder: `cd RoboKeyChallenge`
 4. Run the script: `python robo_key_challenge.py`
-5. Run the script for running simple calculator: 'python virtual_calculator.py'
+5. Run the script for running simple calculator: `python virtual_calculator.py`
 6. Follow prompts to guess the secret key (e.g., try "giraffe").
 
 ## Example Output
